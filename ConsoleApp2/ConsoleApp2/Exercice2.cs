@@ -8,7 +8,7 @@ namespace ConsoleApp2
 {
     internal class Exercice2
     {
-        static void Main(string[] args)
+        static void main(string[] args)
         {
             int max = 0;
             int[] entiers = { 1, 2, 3, 4, 5, 6, 7, 8, };
