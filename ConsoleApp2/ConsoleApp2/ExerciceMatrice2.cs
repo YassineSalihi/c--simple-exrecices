@@ -8,7 +8,7 @@ namespace ConsoleApp2
 {
     internal class ExerciceMatrice2
     {
-        static void Main(string[] args)
+        static void main(string[] args)
         {
             int[,] A = {
                 { 1, 2, 3 },
